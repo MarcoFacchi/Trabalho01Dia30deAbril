@@ -4,6 +4,7 @@ public class Exercicio01 {
         int N = 1;
         while(N <= 100){
             System.out.println(N); 
+                 System.out.println("poise");   
             N++;
         }
         }
