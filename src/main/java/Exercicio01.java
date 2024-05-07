@@ -5,6 +5,7 @@ public class Exercicio01 {
         while(N <= 100){
             System.out.println(N); 
                  System.out.println("poise");   
+                 System.out.println("adicionar");
             N++;
         }
         }
